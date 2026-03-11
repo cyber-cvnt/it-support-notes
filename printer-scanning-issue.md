@@ -22,6 +22,7 @@ HP printers require **HP Scan** or **HP Smart** software.
 
 ### 3. Check Windows Scan Service
 Open: 
+
 Services → Windows Image Acquisition (WIA)
 
 Ensure the service is:
@@ -30,6 +31,7 @@ Ensure the service is:
 
 ### 4. Test Using Windows Scan
 Open:
+
 Windows Scan
 
 Attempt to scan a document.
