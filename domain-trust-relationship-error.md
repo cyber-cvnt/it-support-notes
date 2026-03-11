@@ -19,12 +19,15 @@ This may happen when:
 
 ### 1. Log in Using Local Administrator Account
 Use:
+
 .\Administrator
+
 Or a local admin account to access the machine.
 
 ### 2. Remove Computer From Domain
 
 Navigate to:
+
 System Properties → Computer Name → Change
 
 Switch from **Domain** to **Workgroup**.
