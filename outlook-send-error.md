@@ -18,6 +18,7 @@ A user is unable to send or reply to emails in Microsoft Outlook.
 
 ### 1. Check Mailbox Size
 Navigate to:
+
 File → Tools → Mailbox Cleanup
 
 Delete unnecessary emails if mailbox quota is exceeded.
@@ -41,6 +42,7 @@ Close Outlook completely and reopen the application.
 
 ### 5. Repair Outlook Profile
 Navigate to:
+
 Control Panel → Mail → Show Profiles
 
 Create a new profile if necessary.
